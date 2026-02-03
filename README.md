@@ -44,10 +44,10 @@ Use the following resources to explore Keyshade in more detail and prepare a str
 - **Main Repository:** https://github.com/keyshade-xyz/keyshade  
   Source code, issues, discussions, and contribution workflow.
 
-- **GSoC 2026 Project Ideas:** [project-idea-2026.md](https://github.com/keyshade-xyz/google-summer-of-code/blob/develop/project-idea-2026.md)  
+- **GSoC 2026 Project Ideas:** [project-idea-2026.md](project-idea-2026.md)  
   Detailed descriptions and scope of proposed GSoC projects.
 
-- **Proposal Template:** /GSOC_PROPOSAL_TEMPLATE.md  
+- **Proposal Template:** [GSOC_PROPOSAL_TEMPLATE.md](GSOC_PROPOSAL_TEMPLATE.md)  
   Recommended structure for writing your proposal.
 
 - **Discord Server:** https://discord.gg/whqwPyRPsd  
